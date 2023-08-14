@@ -16,7 +16,7 @@ class BasketBall extends StatelessWidget {
         return Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.orange,
-            title: const Text('basketBall Screen'),
+            title: const Text('Score Board'),
           ),
           body: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
